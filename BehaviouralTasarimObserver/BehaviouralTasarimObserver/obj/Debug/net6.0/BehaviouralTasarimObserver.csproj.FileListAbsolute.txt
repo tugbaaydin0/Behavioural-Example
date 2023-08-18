@@ -1,0 +1,15 @@
+C:\Users\NET\source\repos\BehaviouralTasarimObserver\BehaviouralTasarimObserver\bin\Debug\net6.0\BehaviouralTasarimObserver.exe
+C:\Users\NET\source\repos\BehaviouralTasarimObserver\BehaviouralTasarimObserver\bin\Debug\net6.0\BehaviouralTasarimObserver.deps.json
+C:\Users\NET\source\repos\BehaviouralTasarimObserver\BehaviouralTasarimObserver\bin\Debug\net6.0\BehaviouralTasarimObserver.runtimeconfig.json
+C:\Users\NET\source\repos\BehaviouralTasarimObserver\BehaviouralTasarimObserver\bin\Debug\net6.0\BehaviouralTasarimObserver.dll
+C:\Users\NET\source\repos\BehaviouralTasarimObserver\BehaviouralTasarimObserver\bin\Debug\net6.0\BehaviouralTasarimObserver.pdb
+C:\Users\NET\source\repos\BehaviouralTasarimObserver\BehaviouralTasarimObserver\obj\Debug\net6.0\BehaviouralTasarimObserver.csproj.AssemblyReference.cache
+C:\Users\NET\source\repos\BehaviouralTasarimObserver\BehaviouralTasarimObserver\obj\Debug\net6.0\BehaviouralTasarimObserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NET\source\repos\BehaviouralTasarimObserver\BehaviouralTasarimObserver\obj\Debug\net6.0\BehaviouralTasarimObserver.AssemblyInfoInputs.cache
+C:\Users\NET\source\repos\BehaviouralTasarimObserver\BehaviouralTasarimObserver\obj\Debug\net6.0\BehaviouralTasarimObserver.AssemblyInfo.cs
+C:\Users\NET\source\repos\BehaviouralTasarimObserver\BehaviouralTasarimObserver\obj\Debug\net6.0\BehaviouralTasarimObserver.csproj.CoreCompileInputs.cache
+C:\Users\NET\source\repos\BehaviouralTasarimObserver\BehaviouralTasarimObserver\obj\Debug\net6.0\BehaviouralTasarimObserver.dll
+C:\Users\NET\source\repos\BehaviouralTasarimObserver\BehaviouralTasarimObserver\obj\Debug\net6.0\refint\BehaviouralTasarimObserver.dll
+C:\Users\NET\source\repos\BehaviouralTasarimObserver\BehaviouralTasarimObserver\obj\Debug\net6.0\BehaviouralTasarimObserver.pdb
+C:\Users\NET\source\repos\BehaviouralTasarimObserver\BehaviouralTasarimObserver\obj\Debug\net6.0\BehaviouralTasarimObserver.genruntimeconfig.cache
+C:\Users\NET\source\repos\BehaviouralTasarimObserver\BehaviouralTasarimObserver\obj\Debug\net6.0\ref\BehaviouralTasarimObserver.dll

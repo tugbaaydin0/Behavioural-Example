@@ -1,0 +1,15 @@
+C:\Users\NET\source\repos\BehaviouralTasarimObserver\ChainOfResponsibilty\bin\Debug\net6.0\ChainOfResponsibilty.exe
+C:\Users\NET\source\repos\BehaviouralTasarimObserver\ChainOfResponsibilty\bin\Debug\net6.0\ChainOfResponsibilty.deps.json
+C:\Users\NET\source\repos\BehaviouralTasarimObserver\ChainOfResponsibilty\bin\Debug\net6.0\ChainOfResponsibilty.runtimeconfig.json
+C:\Users\NET\source\repos\BehaviouralTasarimObserver\ChainOfResponsibilty\bin\Debug\net6.0\ChainOfResponsibilty.dll
+C:\Users\NET\source\repos\BehaviouralTasarimObserver\ChainOfResponsibilty\bin\Debug\net6.0\ChainOfResponsibilty.pdb
+C:\Users\NET\source\repos\BehaviouralTasarimObserver\ChainOfResponsibilty\obj\Debug\net6.0\ChainOfResponsibilty.csproj.AssemblyReference.cache
+C:\Users\NET\source\repos\BehaviouralTasarimObserver\ChainOfResponsibilty\obj\Debug\net6.0\ChainOfResponsibilty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NET\source\repos\BehaviouralTasarimObserver\ChainOfResponsibilty\obj\Debug\net6.0\ChainOfResponsibilty.AssemblyInfoInputs.cache
+C:\Users\NET\source\repos\BehaviouralTasarimObserver\ChainOfResponsibilty\obj\Debug\net6.0\ChainOfResponsibilty.AssemblyInfo.cs
+C:\Users\NET\source\repos\BehaviouralTasarimObserver\ChainOfResponsibilty\obj\Debug\net6.0\ChainOfResponsibilty.csproj.CoreCompileInputs.cache
+C:\Users\NET\source\repos\BehaviouralTasarimObserver\ChainOfResponsibilty\obj\Debug\net6.0\ChainOfResponsibilty.dll
+C:\Users\NET\source\repos\BehaviouralTasarimObserver\ChainOfResponsibilty\obj\Debug\net6.0\refint\ChainOfResponsibilty.dll
+C:\Users\NET\source\repos\BehaviouralTasarimObserver\ChainOfResponsibilty\obj\Debug\net6.0\ChainOfResponsibilty.pdb
+C:\Users\NET\source\repos\BehaviouralTasarimObserver\ChainOfResponsibilty\obj\Debug\net6.0\ChainOfResponsibilty.genruntimeconfig.cache
+C:\Users\NET\source\repos\BehaviouralTasarimObserver\ChainOfResponsibilty\obj\Debug\net6.0\ref\ChainOfResponsibilty.dll
